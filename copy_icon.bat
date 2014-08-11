@@ -1,0 +1,1 @@
+copy C:\Users\mobimaks\Desktop\ic_launcher.png res\drawable-xhdpi\ic_launcher.png /y
